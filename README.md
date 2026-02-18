@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects I'm Proud Of
 
 <table align="center">
 <tr>
@@ -44,16 +44,6 @@
 </tr>
 </table>
 
----
-
-🔭 I’m currently working on **On Camera Whiteboard Project**
-
-👨‍💻 All of my projects are available at  
-👉 https://mridul-portfolio-theta.vercel.app/
-
-💬 Ask me about **Python, C++**
-
----
 
 ## 🛠 Languages & Tools
 
