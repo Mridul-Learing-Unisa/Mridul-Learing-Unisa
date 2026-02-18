@@ -85,15 +85,9 @@
 </p>
 
 ---
-
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:mridulchopra23@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mridul-chopra23">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="28"/>
-  </a>
+  📧 <a href="mailto:mridulchopra23@gmail.com">mridulchopra23@gmail.com</a><br/>
+  💼 <a href="https://linkedin.com/in/mridul-chopra23">linkedin.com/in/mridul-chopra23</a>
 </p>
